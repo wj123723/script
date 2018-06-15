@@ -4,7 +4,7 @@ import os, sys
 import platform
 import shutil
 
-FPath = "C:\Downloads\\"         # 要做检查的源根目录
+FPath = "C:\Downloads\\"         # 要做检查的源根文件目录
 TargetPath = 'd:\\WJ'            # 目标文件目录  
 copyFlag = True                  # True要拷贝文件，False不拷贝文件
 
